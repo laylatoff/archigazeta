@@ -3,3 +3,21 @@
 ---
 
 @import "minima";
+
+ul.plus-list {
+    list-style: none;
+}
+
+li:before.plus-list {
+    content: "+";
+    margin-right: 4px;
+}
+
+ul.minus-list {
+    list-style: none;
+}
+
+li.minus-list:before {
+    content: "-";
+    margin-right: 4px;
+}

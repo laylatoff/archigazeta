@@ -1,29 +1,47 @@
 ---
 layout: post
-title:  "Панелька как она есть"
+title:  Что такое VectorWorks и с чем его едят?
 date:   2020-07-05 13:00:00 +0300
-categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Многие архитекторы в 2020м году пользуются различными инструментами для
+BIM, и самыми известными являются – Revit и ArchiCad. Но в мире
+существует и другие программы, позволяющие выполнять самые разные
+функции BIM проектирования, например малоизвестная программа –
+VectorWorks.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+VectorWorks – это комплексная и интуитивно-понятная программа,
+предоставляющий возможности для профессиональной работы с 2D и 3D
+графикой.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Это CAD-приложение, позволяющие работать с проектами любого масштаба и
+сложности, в таких областях, как архитектура, промышленный и ландшафтных
+дизайн, проектирование сценического освещения.
 
-Jekyll also offers powerful support for code snippets:
+В большинстве CAD-продуктов можно полноценно работать или с двухмерными
+или с трехмерными моделями. Программа Vectorworks позволяет Вам делать
+и то и другое, - чертить, рисовать и моделировать, выводить результат
+работы в любом представлении.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Какие плюсы имеет данный софт?
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<ul class="plus-list">
+<li class="plus-list">Хороший набор 2D и 3D инструментов и работой с ними одновременно.</li>
+<li class="plus-list">Автоматическое резервное копирование.</li>
+<li class="plus-list">Интересное графическое представление ваших проетов.</li>
+<li class="plus-list">Работа с ландшафтами. Есть встроенная система ГИС – вы можете
+включить карту улиц и включить ее в дизайн.</li>
+</ul>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+А что на счет минусов?
+
+<ul class="minus-list">
+<li class="minus-list">Неудобный интерфейс.</li>
+<li class="minus-list">Нет русской версии.</li>
+<li class="minus-list">Плохая оптимизация.</li>
+<li class="minus-list">Нет доступных гайдов на русском языке.</li>
+</ul>
+
+Не смотря на весомые минусы – эта программа заслуживает вашего внимания,
+и её изучение станет дополнительным плюсом в ваше резюме.
+
